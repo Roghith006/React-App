@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div{
+  background-color: lightgray;
+  border-radius: 4px;
+}
+
+#btn1{
+  margin-right: 10px;
+  background-color: lightblue;
+  border: none;
+}
+
+
+
+#btn2{
+  margin-Left: 10px;
+  background-color: rgb(91, 219, 41);
+  border: none;
+}
+
+button:hover{
+  cursor: pointer;
+  opacity: 0.8;
+  border: 0;
+}
+
+
+
